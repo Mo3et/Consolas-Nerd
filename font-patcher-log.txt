@@ -1,0 +1,11 @@
+DEBUG: Consolas.ttf Patcher v3.0.0 (4.1.0) (ff 20230101)
+DEBUG: Consolas.ttf Options ['Consolas.ttf']
+DEBUG: Consolas.ttf Naming mode 1
+DEBUG: Consolas.ttf Extended glyphs wider bounding box than basic glyphs
+DEBUG: Consolas.ttf Font has negative right side bearing in extended glyphs
+WARNING: Consolas.ttf Have only minimal naming information, check resulting name. Maybe specify --makegroups 0
+DEBUG: Consolas.ttf =====> Family (ID 1)      ok       (18 <=31): Consolas Nerd Font
+DEBUG: Consolas.ttf =====> SubFamily (ID 2)   ok       ( 7 <=31): Regular
+DEBUG: Consolas.ttf =====> Fullname (ID 4)    ok       (18 <=63): Consolas Nerd Font
+DEBUG: Consolas.ttf =====> PSN (ID 6)         ok       (10 <=63): ConsolasNF
+DEBUG: Consolas.ttf Tweaking 1/1
